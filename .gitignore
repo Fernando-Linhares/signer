@@ -1,0 +1,8 @@
+dist/
+build/
+modules/*
+signer/__pycache__
+signer/file/__pycache__
+signer/security/__pycache__/
+setup.spec
+.env
